@@ -1,0 +1,26 @@
+.bg {
+  background: url('http://1.bp.blogspot.com/-XdUoGM1LALU/T1r9ojZJ9QI/AAAAAAAAA4w/WM07t-W3KKg/s1600/Harbingers+Of+The+Storm+Clouds+4.jpg') repeat;
+  position: fixed;
+  width: 100%;
+  height: 300%;
+  top:0;
+  left:0;
+  z-index: -1;
+}
+
+.blocky {
+  width: 80%;
+  height: 80px;
+  background-color: aqua;
+  opacity: 0.8;
+  margin-bottom: 30px;
+}
+
+section {
+  color: #fff;
+  font-family: arial;
+  width: 500px;
+  margin: auto;
+  line-height: 20px;
+  font-size: 16px;
+}
